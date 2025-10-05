@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="../profile/Logo_light.png" alt="Veridara" height="72">
+  <picture>
+    <!-- Dark theme -->
+    <source media="(prefers-color-scheme: dark)" srcset="../profile/logo_dark.png">
+    <!-- Light theme (fallback) -->
+    <img src="../profile/logo_light.png" alt="Veridara" height="72">
+  </picture>
 </p>
 
 # Veridara Labs
