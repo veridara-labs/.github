@@ -3,7 +3,7 @@
     <!-- Dark theme -->
     <source media="(prefers-color-scheme: dark)" srcset="../profile/logo_dark.png">
     <!-- Light theme (fallback) -->
-    <img src="../profile/logo_light.png" alt="Veridara" height="72">
+    <img src="../profile/logo_light.png" alt="Veridara" height="150">
   </picture>
 </p>
 
