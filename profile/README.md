@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile/logo_light.png" alt="Veridara" height="72">
+  <img src="../profile/logo_light.png" alt="Veridara" height="72">
 </p>
 
 # Veridara Labs
